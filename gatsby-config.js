@@ -5,7 +5,7 @@ module.exports = {
     description: 'A place for a wanderlust heart, inquisitive mind and nerdy ass burrito Cali girl from SF.',
     siteUrl: 'https://michellewong793.github.io/uncontainable-poems/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/uncontainable-poems',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
