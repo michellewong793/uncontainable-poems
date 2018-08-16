@@ -1,0 +1,2 @@
+webpackJsonp([5845135763691],{513:function(e,t){e.exports={data:{site:{siteMetadata:{title:"uncontainable poetry",author:"Michelle Wong"}},markdownRemark:{id:"/Users/michellewong/Desktop/uncontainable-poems/src/pages/my-second-post/index.md absPath of file >>> MarkdownRemark",html:"<p>hey\ni like u avery </p>",frontmatter:{title:"Avery",date:"May 06, 2015"}}},pathContext:{slug:"/my-second-post/",previous:null,next:{fields:{slug:"/hi-folks/"},frontmatter:{title:"New Beginnings"}}}}}});
+//# sourceMappingURL=path---my-second-post-0690ee8f554401a7d518.js.map
