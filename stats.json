@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
     "path---my-second-post": [
-      "path---my-second-post-5d65db168304dad07eda.js",
-      "path---my-second-post-5d65db168304dad07eda.js.map"
+      "path---my-second-post-77ab6129bc10320f34ed.js",
+      "path---my-second-post-77ab6129bc10320f34ed.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fb58f76d62fd8b017895.js",
-      "component---src-pages-index-js-fb58f76d62fd8b017895.js.map"
+      "component---src-pages-index-js-e0724cf69ad7ae30befa.js",
+      "component---src-pages-index-js-e0724cf69ad7ae30befa.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---random-facts": [
-      "path---random-facts-a7cff8f29d30ae9a7ce1.js",
-      "path---random-facts-a7cff8f29d30ae9a7ce1.js.map"
+      "path---random-facts-0ce1de872920779eda16.js",
+      "path---random-facts-0ce1de872920779eda16.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-ddcab1bd2bad9268aed5.js",
-      "component---src-templates-blog-post-js-ddcab1bd2bad9268aed5.js.map"
+      "component---src-templates-blog-post-js-78c2fe2155c2131312fa.js",
+      "component---src-templates-blog-post-js-78c2fe2155c2131312fa.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-3bfd24f0123d49dce830.js",
@@ -33,16 +33,16 @@
       "path---hi-folks-dac7edb2e3c6f71b38a0.js.map"
     ],
     "path---index": [
-      "path---index-9a2b17e17483bb40747f.js",
-      "path---index-9a2b17e17483bb40747f.js.map"
+      "path---index-23ef66de4c32d8e7980e.js",
+      "path---index-23ef66de4c32d8e7980e.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-5db7289bb456ca6db88f.js",
-      "path---hello-world-5db7289bb456ca6db88f.js.map"
+      "path---hello-world-04e6d9d528220b9b4b2b.js",
+      "path---hello-world-04e6d9d528220b9b4b2b.js.map"
     ],
     "path---mama": [
-      "path---mama-fe9dfec1d8083be1919b.js",
-      "path---mama-fe9dfec1d8083be1919b.js.map"
+      "path---mama-141d5a28f6c0870ad3f1.js",
+      "path---mama-141d5a28f6c0870ad3f1.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -63,9 +63,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-6c9bdf136fa0e8baf8ea.js",
+      "app-dac35d700f8b313f8599.js",
       "build-js-styles.css",
-      "app-6c9bdf136fa0e8baf8ea.js.map",
+      "app-dac35d700f8b313f8599.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
